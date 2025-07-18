@@ -65,15 +65,35 @@ The platform provides a centralized, user-friendly **Management Information Syst
 
 
 # Output
+
+## Login Page
 ![Login Page](/assets/lms/login.PNG)
+
+## Register Page
 ![Register Page](/assets/lms/register.PNG)
+
+## Registration Form
 ![Registration Form](/assets/lms/registration%20form.PNG)
+
+## View My Lands
 ![View My Lands](/assets/lms/view_My_lands.PNG)
+
+## Land Profile
 ![Land Profile](/assets/lms/land_profile.PNG)
+
+## Choosing Buyer and Uploading Recommendation Letter
 ![Choosing Buyer and Uploading Recommendation Letter](/assets/lms_ward/choosing%20buyer%20and%20uploading%20recommendation%20letter.PNG)
+
+## Land List
 ![Land List](/assets/lms_ward/land_list.PNG)
+
+## Land Profile For Sell
 ![Land Profile For Sell](/assets/lms_ward/land_profile_which%20for%20sell.PNG)
+
+## OTP Verification For Recommendation Letter
 ![OTP Verification For Recommendation Letter](/assets/lms_ward/otpVerificationForRecommendationLetter.PNG)
+
+## Profile For Verification
 ![Profile For Verification](/assets/lms_ward/profileforverification.PNG)
 
 
