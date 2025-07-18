@@ -62,3 +62,19 @@ The platform provides a centralized, user-friendly **Management Information Syst
 - **E-signature and biometric verification** for added security.
 - **Integration with Government Portals** like Nagarik App and Nagarik e-Sewa.
 - **Multilingual Support** for wider reach across Nepalese communities.
+
+
+# Output
+![Login Page](/assets/lms/login.PNG)
+![Register Page](/assets/lms/register.PNG)
+![Registration Form](/assets/lms/registration%20form.PNG)
+![View My Lands](/assets/lms/view_My_lands.PNG)
+![Land Profile](/assets/lms/land_profile.PNG)
+![Choosing Buyer and Uploading Recommendation Letter](/assets/lms_ward/choosing%20buyer%20and%20uploading%20recommendation%20letter.PNG)
+![Land List](/assets/lms_ward/land_list.PNG)
+![Land Profile For Sell](/assets/lms_ward/land_profile_which%20for%20sell.PNG)
+![OTP Verification For Recommendation Letter](/assets/lms_ward/otpVerificationForRecommendationLetter.PNG)
+![Profile For Verification](/assets/lms_ward/profileforverification.PNG)
+
+
+
